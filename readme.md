@@ -18,7 +18,7 @@ Most of the numpy codes are also convert to pytorch codes.
 3. Run `0.handle.py` to create my models in BFM. 
 4. Run `1.th_demo`, the results will be in `output`.
 
-You'd better see the scripts before running it to avoid some trivial mistakes.
+You'd better see the scripts before running to avoid some trivial mistakes.
 
 
 -----
